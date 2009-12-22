@@ -5,3 +5,4 @@ Gen != 3
 
 from the Excel file to find compounds that are carcinogens and not genotoxic.
 
+See file src/unspec for excluded compounds
